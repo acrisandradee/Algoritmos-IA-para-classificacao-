@@ -1,4 +1,4 @@
-# 🏆 Classificação de Vinhos Tintos e Brancos com Machine Learning
+## 🏆 Classificação de Vinhos Tintos e Brancos com Machine Learning
 
 ## 📌 Descrição do Projeto
 Este projeto utiliza técnicas de Machine Learning para prever a qualidade dos vinhos tintos e brancos com base em suas características. Testamos diferentes algoritmos, avaliamos o desempenho e comparamos a capacidade dos modelos de generalizar para diferentes tipos de vinho.
@@ -6,9 +6,10 @@ Este projeto utiliza técnicas de Machine Learning para prever a qualidade dos v
 ---
 
 O objetivo é classificar os vinhos como **"bons" ou "ruins"** com base em seus atributos, utilizando:
+
 ✅ **Regressão Logística**  
 ✅ **Árvore de Decisão**  
-✅ **SVM*  
+✅ **SVM**  
 
 Utilizamos **validação cruzada estratificada (k=10)** para garantir uma avaliação confiável.
 
